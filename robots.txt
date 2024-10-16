@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://noyehovijou.pages.dev/sitemap.xml
